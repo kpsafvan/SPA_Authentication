@@ -1,0 +1,38 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "Safvan",
+      "DOB": "10-10-1010",
+      "Salary": 23456789,
+      "email": "safvankpmes@gmail.com"
+    }
+  ],
+  "user": [
+    {
+      "id": 11,
+      "name": "sre"
+    },
+    {
+      "fname": "K P",
+      "lname": "SAFVAN",
+      "email": "safvan.kp@gadgeon.com",
+      "password": "zxcv",
+      "id": 12
+    },
+    {
+      "fname": "K P",
+      "lname": "SAFVAN",
+      "email": "safvan.kp@gadgeon.com",
+      "password": "zxcv",
+      "id": 13
+    },
+    {
+      "fname": "K P",
+      "lname": "SAFVAN",
+      "email": "safvan.kp@gadgeon.com",
+      "password": "zxcv",
+      "id": 14
+    }
+  ]
+}

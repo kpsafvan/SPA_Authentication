@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 11,
+      "name": "sre"
+    },
+    {
+      "fname": "K P",
+      "lname": "SAFVAN",
+      "email": "safvan.kp@gadgeon.com",
+      "password": "zxcv",
+      "id": 12
+    },
+    {
+      "fname": "Chotu",
+      "lname": "a",
+      "email": "asd",
+      "password": "asd",
+      "id": 13
+    }
+  ]
+}
